@@ -86,22 +86,6 @@ p {
     background-color: #2589bd;
 }
 
-/*consolidated side bar text formatting for all three asides
-note: deleted header specific headings since they matched main styling*/
-.benefit-lead, .benefit-brand, .benefit-cost  {
-    margin-bottom: 32px;
-    color: #ffffff;
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/*consolidated side bar img formatting for all three asides*/
-.benefit-lead img, .benefit-brand img, .benefit-cost img   {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
 /*consolidated headers for main article
 note: leaving headers because they contain additional font size styling*/
 .search-engine-optimization h2, .online-reputation-management h2 , .social-media-marketing h2 {
@@ -123,6 +107,22 @@ note: deleted header specific headings since they matched main styling*/
 /*consolidated main section img formatting*/
 .search-engine-optimization img, .online-reputation-management img,.social-media-marketing img {
     max-height: 200px;
+}
+
+/*consolidated side bar text formatting for all three asides
+note: deleted header specific headings since they matched main styling*/
+.benefit-lead, .benefit-brand, .benefit-cost  {
+    margin-bottom: 32px;
+    color: #ffffff;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/*consolidated side bar img formatting for all three asides*/
+.benefit-lead img, .benefit-brand img, .benefit-cost img   {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
 }
 
 /*footer heading text*/
