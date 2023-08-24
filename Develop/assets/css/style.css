@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/*body color*/
 body {
     background-color: #d9dcd6;
 }
 
+/* header styling*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,15 +17,18 @@ body {
     color: #ffffff;
 }
 
+/*main header styling*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* SEO cutout color change*/
 .header h1 .seo {
     color: #d9dcd6;
 }
 
+/*header styling*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,24 +37,29 @@ body {
     font-size: 20px;
 }
 
+/*remove list item styling*/
 .header div ul {
     list-style-type: none;
 }
 
+/*list item formatting*/
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/*title text*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/*paragraph text*/
 p {
     font-size: 16px;
 }
 
+/*formatting for main image display*/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +69,19 @@ p {
     background-position: center;
 }
 
+/*used to position main body images*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*used to position main body images*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
+/*formatting for benefits section*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -84,6 +91,13 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+}
+
+/*formatting for side bar section*/
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
 
 /*consolidated headers for main article
