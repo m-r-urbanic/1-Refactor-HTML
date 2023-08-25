@@ -14,7 +14,7 @@ https://m-r-urbanic.github.io/1-Refactor-HTML/
 
 Use the above URL to view the corporate webpage and use the top navegation bar to navegate to any of the three articles in the main body of the page.
 
-![image of refactored webpage](Develop/assets/images/screenshot.jpg)
+![image of refactored webpage](assets/images/screenshot.jpg)
 
 ## Credits
 
