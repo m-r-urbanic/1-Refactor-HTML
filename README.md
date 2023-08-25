@@ -10,7 +10,9 @@ This project can be downloaded (as a whole) and ran in Visual Studio Code with n
 
 ## Usage
 
-View the corporate webpage and use the top navegation bar to navegate to any of the three articles in the main body of the page.
+https://m-r-urbanic.github.io/1-Refactor-HTML/
+
+Use the above URL to view the corporate webpage and use the top navegation bar to navegate to any of the three articles in the main body of the page.
 
 ![image of refactored webpage](Develop/assets/images/screenshot.jpg)
 
