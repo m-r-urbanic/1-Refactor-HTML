@@ -10,12 +10,17 @@ This project can be downloaded (as a whole) and ran in Visual Studio Code with n
 
 ## Usage
 
-TBD
+View the corporate webpage and use the top navegation bar to navegate to any of the three articles in the main body of the page.
+
+![image of refactored webpage](Develop/assets/images/screenshot.jpg)
 
 ## Credits
 
-TBD
-
+Resources Used:
+HTML Headings, W3 Schools, www.w3schools.com/html/html_headings.asp. 
+HTML < img > alt Attribute, W3 Schools, www.w3schools.com/tags/att_img_alt.asp. 
+HTML < title > Tag, W3 Schools, www.w3schools.com/tags/tag_title.asp. 
+HTML Semantic Elements, W3 Schools, www.w3schools.com/html/html5_semantic_elements.asp. 
 
 ## License
 
